@@ -7,8 +7,9 @@
  */
 
 const COLOR_TSHIRT = 'amarillo';
-const matematicas = 89;
-var biologia = 70;
-var literatura = 100;
-var promedio = (matematicas + biologia + literatura) / 3;
- console.log(promedio);
+const MATEMATICAS = 89;
+const BIOLOGIA = 70;
+const LITERATURA = 100;
+const PROMEDIO = (MATEMATICAS + BIOLOGIA + LITERATURA) / 3;
+
+console.log(PROMEDIO);
