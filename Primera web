@@ -1,0 +1,28 @@
+<!DOTYPE HTML>
+<html lang="es">
+<head>
+	<title>Mi primera web</title>
+</head>
+
+<body>
+	<!--encabezado-->
+	<h1> Mi primera web</h1>
+
+    <!--menu-->
+    <ul>
+     <li><a href="paginas multiples.html" title="inicio">inicio</a></li>
+     <li><a href="contenidos.html" title="contenidos">contenidos</a></li>
+     <li><a href="contactos.html" title="contactos">contactos</a></li> 	
+    	
+    </ul>
+
+   <hr/>
+   <!--contenido de pagines multiples.html-->
+   <h2> Bienvenido a mi Website</h2>
+    <img src="imagenes/conejo.jpg" alt="conejo" title="conejo"/>
+
+    <P>
+    	El conejo común europeo (nombre científico oryctolagus cuniculus) es un mamífero del orden de los lagomorfos, diferente a los roedores. Existe en estado salvaje, y también doméstico. Los conejos son animales herbívoros, pequeños y peludos. Su cabeza es redondeada, el hocico corto y poseen orejas muy largas que llegan hasta los 7 centímetros y además de para oír, les sirven para regular su temperatura corporal. En estado salvaje los conejos pesan entorno a 2 kilos, pero en sus variedades domésticas existen razas de conejos gigantes que llegan hasta los 7 kilos y los miniatura, que a penas pesan medio kilo. 
+    </P>
+</body>
+</html>
