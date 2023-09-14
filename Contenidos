@@ -1,0 +1,47 @@
+<!DOTYPE HTML>
+<html lang="es">
+<head>
+	<title>Mi primera web</title>
+</head>
+
+<body>
+	<!--encabezado-->
+	<h1> Mi primera web</h1>
+
+    <!--menu-->
+    <ul>
+     <li><a href="paginas multiples.html" title="inicio">inicio</a></li>
+     <li><a href="contenidos.html" title="contenidos">contenidos</a></li>
+     <li><a href="contactos.html" title="contactos">contactos</a></li> 	
+    	
+    </ul>
+
+   <hr/>
+   <!--contenido de contenidos.html-->
+   <h2> Tabla de contenidos</h2>
+   <table border="1">
+     <tr>
+       <th>Caballo</th>
+       <th>Cerdo</th>
+       <th>Mono</th>
+       <th>Tortuga</th>
+     </tr>
+
+     <tr>
+       <td>
+         <img src="imagenes/caballo.jpg" height="100px"/>
+       </td>
+       <td>
+         <img src="imagenes/cerdo.jpg" height="100px"/>0
+       </td>
+       <td>
+         <img src="imagenes/mono.jpg" height="100px"/>
+       </td>
+       <td>
+         <img src="imagenes/tortuga.jpg" height="100px"/>
+       </td>
+     </tr>
+   </table>
+    
+</body>
+</html>
