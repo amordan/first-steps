@@ -1,0 +1,46 @@
+<!DOTYPE HTML>
+<html lang="es">
+<head>
+	<title>Mi primera web</title>
+</head>
+
+<body>
+	<!--encabezado-->
+	<h1> Mi primera web</h1>
+
+    <!--menu-->
+    <ul>
+     <li><a href="paginas multiples.html" title="inicio">inicio</a></li>
+     <li><a href="contenidos.html" title="contenidos">contenidos</a></li>
+     <li><a href="contactos.html" title="contactos">contactos</a></li>  	
+    	
+    </ul>
+
+   <hr/>
+   <!--contenido de contactos.html-->
+   <h2> Contactos</h2>
+   <form>
+    <p>
+     <label for="nombre">Nombre</label><br/>
+     <input type="text" name="nombre"/>
+   </p>
+
+   <p>
+     <label for="Biografia">Biografia</label><br/>
+     <textarea name="Biografia"></textarea>
+   </p>
+
+   <p>
+     <label for="edad">Edad</label> <br/>
+       <select form="edad">
+         <option value="Mayor de edadd">Mayor de edad</option>
+         <option value="Adulto">Adulto</option>
+         <option value="Mayor de 65 años">Mayor de 65 años</option>
+     </select>
+   </p>
+
+   <input type="submit" value="Enviar" />
+   </form>
+    
+</body>
+</html>
